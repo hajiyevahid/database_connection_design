@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Database_connection_design/1.0.0": {
+        "runtime": {
+          "Database_connection_design.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Database_connection_design/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

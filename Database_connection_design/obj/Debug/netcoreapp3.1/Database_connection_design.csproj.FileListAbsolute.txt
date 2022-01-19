@@ -1,0 +1,13 @@
+C:\Users\haciy\source\repos\Database_connection_design\bin\Debug\netcoreapp3.1\Database_connection_design.exe
+C:\Users\haciy\source\repos\Database_connection_design\bin\Debug\netcoreapp3.1\Database_connection_design.deps.json
+C:\Users\haciy\source\repos\Database_connection_design\bin\Debug\netcoreapp3.1\Database_connection_design.runtimeconfig.json
+C:\Users\haciy\source\repos\Database_connection_design\bin\Debug\netcoreapp3.1\Database_connection_design.runtimeconfig.dev.json
+C:\Users\haciy\source\repos\Database_connection_design\bin\Debug\netcoreapp3.1\Database_connection_design.dll
+C:\Users\haciy\source\repos\Database_connection_design\bin\Debug\netcoreapp3.1\Database_connection_design.pdb
+C:\Users\haciy\source\repos\Database_connection_design\obj\Debug\netcoreapp3.1\Database_connection_design.csprojAssemblyReference.cache
+C:\Users\haciy\source\repos\Database_connection_design\obj\Debug\netcoreapp3.1\Database_connection_design.AssemblyInfoInputs.cache
+C:\Users\haciy\source\repos\Database_connection_design\obj\Debug\netcoreapp3.1\Database_connection_design.AssemblyInfo.cs
+C:\Users\haciy\source\repos\Database_connection_design\obj\Debug\netcoreapp3.1\Database_connection_design.csproj.CoreCompileInputs.cache
+C:\Users\haciy\source\repos\Database_connection_design\obj\Debug\netcoreapp3.1\Database_connection_design.dll
+C:\Users\haciy\source\repos\Database_connection_design\obj\Debug\netcoreapp3.1\Database_connection_design.pdb
+C:\Users\haciy\source\repos\Database_connection_design\obj\Debug\netcoreapp3.1\Database_connection_design.genruntimeconfig.cache
